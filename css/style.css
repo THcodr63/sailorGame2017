@@ -1,0 +1,118 @@
+body {
+	background: url("../images/sailorsymbolBG.jpg");
+	font-family: "Elsie Swash Caps", cursive;
+}
+
+.jumbotron {
+	background: yellow;
+}
+
+#game {
+	background-color: yellow;
+	margin: 20px;
+	width: 75%;
+	border: solid 2px black;
+	padding: 10px;
+}
+
+h1, h3, span {
+	font-weight: bold;
+	text-align: center;
+}
+
+h1 {
+	font-size: 30pt;
+}
+
+.directions {
+	width: 40%;
+}
+
+.directions {
+	background: lightgreen;
+	margin: 20px;
+	width: 75%;
+	border: solid 2px black;
+	padding: 10px;
+}
+
+.winsLosses {
+	width: 30%;
+	height: 150px;
+	font-size: 15px;
+	background-color: #fe4042;
+	margin: 20px;
+	width: 30%;
+	border: solid 2px black;
+	padding: 10px;
+}
+#winNum {
+	margin: 5px;
+}
+
+#lossesNum {
+	height: 50%;
+}
+
+.win {
+	margin: 0px;
+	font-size: 20px;
+}
+.loss {
+	margin-top: 10px;
+	font-size: 20px;
+}
+
+.enScore {
+	margin: 0px;
+}
+
+.randomNum {
+	background-image: url("../images/darkKindom.jpg");
+	margin: 20px;
+	width: 75%;
+	border: solid 2px black;
+	padding: 10px;
+	width: 70%;
+	height: 100px;
+	color: darkviolet;
+}
+
+.totalScore {
+	width: 60%;
+	height: 70px;
+	background-color: lightblue;
+	margin: 20px;
+	width: 30%;
+	border: solid 2px black;
+	padding: 10px;
+}
+
+.sScore {
+	font-size: 20px;
+}
+
+.symbols {
+	clear: both;
+	background: url(../images/sailorBG.jpg);
+	margin: 20px;
+	width: 70%;
+	border: solid 2px black;
+	padding: 10px;
+}
+
+.sailorSym {
+	height: 60px;
+	margin: 5px;
+}
+
+.btn {
+	background: mediumpurple;
+	border: 20px black;
+	margin: 10px;
+	width: 15%;
+	border: solid 2px black;
+	padding: 10px;
+	font-weight: bold;
+}
+
