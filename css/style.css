@@ -1,5 +1,5 @@
 body {
-	background: url("../images/sailorsymbolBG.jpg");
+	background: url("images/sailorsymbolBG.jpg");
 	font-family: "Elsie Swash Caps", cursive;
 }
 
@@ -68,7 +68,7 @@ h1 {
 }
 
 .randomNum {
-	background-image: url("../images/darkKindom.jpg");
+	background-image: url("images/darkKindom.jpg");
 	margin: 20px;
 	width: 75%;
 	border: solid 2px black;
@@ -94,7 +94,7 @@ h1 {
 
 .symbols {
 	clear: both;
-	background: url(../images/sailorBG.jpg);
+	background: url("images/sailorBG.jpg");
 	margin: 20px;
 	width: 70%;
 	border: solid 2px black;
